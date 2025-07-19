@@ -1,2 +1,2 @@
 # Sample
-Sample copy
+This is a Sample copy
